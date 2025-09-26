@@ -6,16 +6,16 @@ It demonstrates end‑to‑end UI automation using Java, Selenium, and TestNG ag
 ---
 
 Tech Stack
-- Language: Java 17
-- Frameworks: Selenium 4, TestNG
+- Language: Java
+- Frameworks: Selenium , TestNG
 - Pattern: Page Object Model (POM)
-- Driver Management: WebDriverManager (no manual driver setup)
+- Driver Management: WebDriverManager 
 - Build Tool: Maven
 
 ---
 
 Test Design
-The suite covers 4 critical user flows:
+The suite covers four critical user flows:
 
 1. Login
    - Valid login - navigates to Products page
