@@ -1,7 +1,7 @@
 SauceDemo Selenium Java Test Suite
 
 This project is for 'Real Work Challenge' interview round.
-It demonstrates end‑to‑end UI automation using Java, Selenium, and TestNG against the public demo app [Sauce Demo](https://www.saucedemo.com).
+It demonstrates end‑to‑end UI automation using Java, Selenium, and TestNG against the public demo website [Sauce Demo](https://www.saucedemo.com).
 
 ---
 
