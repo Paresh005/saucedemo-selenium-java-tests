@@ -28,5 +28,5 @@ The suite covers 4 critical user flows:
 4. Logout
    - Ends session - redirects to login page
 
-Detailed test cases are documented in attached testcases doc.
+Detailed test cases are documented in 'TestCases.xlsx` doc.
 
